@@ -1,0 +1,21 @@
+name: com.appylar.unity-sdk
+displayName: Appylar
+description: >
+  Connect your game to the Appylar Ads for iOS and Android and join the biggest cross promotion ad exchange community.
+
+  Supported platforms:
+  - Android
+  - iOS
+repoUrl: https://github.com/appylar/published-unity-sdk
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: GPL
+image: ''
+topics:
+  - utilities
+hunter: indrif
+gitTagPrefix: 'upm/'
+gitTagIgnore: ''
+minVersion: ''
+readme: upm:README.md
+createdAt: 1705868528495
